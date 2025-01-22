@@ -1,4 +1,4 @@
-# C++ and OpenGL template
+# C++ template
 
 This repository serves as a template for starting development in C++. It provides a basic setup with necessary configurations to kickstart your projects.
 
